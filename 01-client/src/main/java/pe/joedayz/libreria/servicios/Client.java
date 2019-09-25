@@ -22,3 +22,5 @@ public class Client {
 
 	}
 }
+
+// JAX-WS  - JAXB
